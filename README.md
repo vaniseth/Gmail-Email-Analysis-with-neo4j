@@ -1,6 +1,6 @@
 # Gmail-Email-Analysis-with-neo4j
 
-https://github.com/vaniseth/Gmail-Email-Analysis-with-neo4j.git
+https://neo4j.com/blog/gmail-email-analysis-with-neo4j-and-spreadsheets/
 
 https://techcrunch.com/2012/04/19/googles-new-gmail-meter-crunches-data-about-your-email-use/
 
