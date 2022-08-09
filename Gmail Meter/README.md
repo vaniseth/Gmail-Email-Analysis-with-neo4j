@@ -1,6 +1,6 @@
 # GMAIL METER IN APP SCRIPTS
 
-###What is Gmail Meter?
+What is Gmail Meter?
 
 The email gmail meter grants you instant access to valuable insights from within your email threads.
 
