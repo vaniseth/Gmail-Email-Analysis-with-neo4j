@@ -1,9 +1,11 @@
-# Retriving Gmail email sttistics
+# Retriving Gmail email statistics
 
-### How to retrieve email statistics?
+Using the contents of this repo you can create a new add-on which works like Gmail Meter on Google App Scripts
+
+## How to retrieve email statistics?
 Email statistics can be retireved by using a Gmail meter.
 
-### What is gmail meter?
+## What is gmail meter?
 The Email Meter is a google spread sheet add-on grants you instant access to valuable insights from within your email threads. The statistcs will be easily available to you on google spreadsheets.
 
 Gmail Meter presents the report of the email on google spreadsheets in 2 sheets:
