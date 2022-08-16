@@ -1,8 +1,8 @@
 var BATCH_SIZE = 50;
 var ss = SpreadsheetApp.getActiveSpreadsheet();
 // If you are using several email addresses, list them in the following variable 
-// - eg 'romain.vialard@gmail.com,romain.vialard@example.com'
-var aliases =  'romain.vialard@euromed-management.com';
+// - eg 'vani.seth@gmail.com,vaniseth@example.com'
+var aliases =  'sethvani2002@gmail.com';
 
 function activityReport() {
     var status = ScriptProperties.getProperty("status");
